@@ -67,4 +67,6 @@
 
 ---
 
-## Use-case UML диаграмма  (???)
+## Use-case UML диаграмма
+
+<img width="312" height="715" alt="image" src="https://github.com/user-attachments/assets/a0c52da9-cdfc-4017-b661-eb343cdcb4b2" />
